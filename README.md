@@ -26,12 +26,12 @@ The full packaged .war of the client and servlets is built when the project is t
 Using Library
 -------------
 Loading example diagram
-The file [Example-1.1](https://www.dropbox.com/s/1nvfk36cyzwdznj/Template-1.1?dl=0) is an example diagram which you can load 
+The file Example-1.1 is an example diagram which you can load 
 directly into draw.io. It is using the IBCS-Shapes library. 
 ![example](https://user-images.githubusercontent.com/327346/48302973-762b9e00-e504-11e8-942a-1cb9c02f691e.png)
 
 Loading library
-Load the library [IBCS-1.1](https://www.dropbox.com/s/xr0eje8louzzy92/IBCS-1.1.xml?dl=0)
+Load the library IBCS-1.1
 by *Edit -> Open Library...*
 
 
